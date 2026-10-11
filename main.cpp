@@ -2,7 +2,7 @@
 #include <string>
 
 int main() {
-    std::string message = "Initial message";
+    std::string message = "Message from Student A";
 
     std::cout << message << std::endl;
 
